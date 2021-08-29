@@ -1,0 +1,40 @@
+.other{
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.other-copies{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.other-copies p{
+  max-width: 200px;
+  margin-right: 20px;
+}
+
+.activate{
+  margin-top: 1rem;
+  padding-bottom: 1rem;
+  /* border-bottom: 1px #000 solid; */
+  display: flex;
+  text-align: center;
+}
+
+.deactivate{
+  margin-top: 1rem;
+  display: flex;
+  text-align: center;
+}
+
+.venv-activate{
+  min-width: 200px;
+  min-height: 100px;
+}
+
+.venv-deactivate{
+  min-width: 200px;
+  min-height: 100px;
+}
